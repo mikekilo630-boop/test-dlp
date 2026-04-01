@@ -7,6 +7,6 @@
 int main() 
 {
 // missing semicolon
-printf("Geeks for geeks!") 
+printf("Geeks for geeks!"); 
 return 0;
 }
